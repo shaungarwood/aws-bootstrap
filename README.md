@@ -29,3 +29,4 @@ This will setup AWS to create:
 7. `rm aws_credentials.csv` to delete the CSV file (recommended)
 
 ## Demo
+![Demo](./demo.gif)

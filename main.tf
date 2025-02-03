@@ -68,5 +68,5 @@ User Name,Access Key Id,Secret Access Key
 ${aws_iam_user.dev.name},${aws_iam_access_key.dev_access_key.id},${aws_iam_access_key.dev_access_key.secret}
 EOF
   filename = "${path.module}/aws_credentials.csv"
-  file_permission = "0400"
+  file_permission = "0600"
 }
