@@ -15,7 +15,7 @@ This will setup AWS to create:
  - IAM policy
  - access keys
 
-> **Note:**
+> [!NOTE]
 > Yes! I know you're not supposed to use access keys for root user.
 > But this is easier than using the browser and poking around with your cursor like a pleeb.
 
