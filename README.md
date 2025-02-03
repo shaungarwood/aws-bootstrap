@@ -1,5 +1,14 @@
 # Bootstrap AWS
 
+```
+          .-~~~-.
+  .- ~ ~-(       )_ _
+ /                     ~ -.
+|                           \
+ \                         .'
+   ~- . _____________ . -~
+```
+
 This will setup AWS to create:
  - a dev user
  - user group
